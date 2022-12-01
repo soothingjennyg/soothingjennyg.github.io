@@ -1,0 +1,134 @@
+/***TAG SELECTORS***/
+body {
+  background-color: #222831;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #EEEEEE;
+  border-left: 20px;
+  background-size: cover;
+}
+
+footer {
+  position: fixed;
+  font-size: 8;
+  text-align: center;
+  background-color: #393E46;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+hr {
+  background-color: white;
+}
+
+h1 {
+  color: #00ADB5;
+}
+
+h3 {
+  color: #00ADB5;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+p {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+/*******CLASS SELECTORS******/
+.btn-primary{
+  background-color: #393E46;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.cardbody {
+  color: black;
+}
+
+.contactInfo {
+  text-align: center;
+}
+
+.contactImage {
+  text-align: center;
+}
+
+.emailForm {
+  background-color: #00ADB5;
+  border: solid 5px;
+  border-color: #393E46;
+  color: #393E46;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto 0 auto;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.formName {
+  padding-left: 20px;
+}
+
+.index-page {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  color: white;
+  text-align: center;
+}
+
+.index-body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)), url("images/waterfallIndexPic.jpg");
+}
+
+.index-quote {
+  color: #00ADB5;
+  text-align: center;
+  font-size: 24;
+  font-family: cursive;
+  padding-top: 40px;
+}
+
+.index-h1 {
+  color: white;
+}
+
+.index-h3 {
+  color: white;
+}
+
+.navbar-brand {
+  font-family: cursive;
+}
+
+.planet {
+  width: 10px;
+  height: 10px;
+}
+
+.projectBody {
+  color: black;
+}
+
+.row {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.skillsAndThings{
+  padding-top: 30px;
+}
+.submitButton {
+  padding-top: 20px;
+}
+
+.textarea {
+  width: 100%;
+  margin-top: 20px;
+}
